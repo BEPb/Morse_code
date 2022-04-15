@@ -42,7 +42,7 @@ $ cd Morse_code
 ```
 and enter:
 ```
-python morse.py
+python3 -m morse
 ```
 enter text or cipher for reverse morse code translation
 
